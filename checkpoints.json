@@ -1,0 +1,2686 @@
+[
+  {
+    "id": 1,
+    "section": "FACILITY",
+    "title": "OPENING & CLOSING REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Two OPs and two Security personnel must be from different agencies & present during opening and closing.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All names, timings & signatures must be correctly recorded in register. Details will be verified with Biometric or Face Punching data available in the system. Variance is not allowed. Duty Manager to punch first after opening the store followed by others reporting on 1st Shift. Similar process to be followed during closing but in this case Manager to punch last. Opening & closing process activities as detailed above must be followed even if store is working in the night shift for receiving, maintenance, stock take, etc.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Location of Trolleys, Baskets, Bag in Bags & Crates to be maintained daily in Location wise Assets Register and total should be recorded in the opening & closing register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "section": "FACILITY",
+    "title": "LOCATION WISE ASSETS REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Counting of Trolleys,Baskets, Crates and Bag in Bags must be done by different security personnel in the morning and night and record total counts in the register on daily basis.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Trolleys/ Baskets & Bag in Bags sent out for repairs via returnable gate pass must reflect in physical quantities recorded in register.  This is also applicable for green bags repairing, cartridge refilling in the store premises and returned on the same day.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All entries made by Facility staff in the register to be checked for accuracy & signed by Duty Manager on daily basis.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "section": "FACILITY",
+    "title": "STAFF BILLING REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) This register is maintained at staff entry to record all purchases made by staff while on lunch break or after duty hours. All details such as name of staff, facility on duty, bill no, amount, no of articles, etc  must be entered by Facility after checking the articles. Staff sign & Facility Sign to be done for each entry made in the register.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2)  All staff billing to be done in designated POS nominated by Store.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Managers to check accuracy and sign after the last entry to ensure no more billing is done for the same date post their signature.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "section": "FACILITY",
+    "title": "COURIER REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All couriers received in the store must be entered in this register immediately.  Facility staff receiving the courier will enter receiving date, time & sign in the register.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2)  All Couriers must be handover immediately to the adressee & signature of the adressse must be obtained in the register. Handover date & time must also be recorded in the register. If any addressee is absent, courier must be handed over to Duty Manager and signature of Managers to be obtained. Such couriers will be handed over to the addressee, on the next working day, by Duty Managers. Duty Managers to ensure no couriers are left behind at Facility table.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "section": "FACILITY",
+    "title": "ATTENDANCE REGISTERS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Attendance Registers of 3P Staff; D Mart Staff; Mis punching register, Visitor's register; HO / RO staff;  AMC contractors register; Night working vendors register must all be available on Facility table at Staff Entry.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Only Signatures to be done by all, without any exception, while entering the store & while leaving the store from Staff Entry after duty hours. Entries in Mis punch register must be done by Staff immediately in presence of facility staff on duty. Facility staff must sign after checking the details entered by staff.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "section": "FACILITY",
+    "title": "PRODUCTS IN SCRAP",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All empty Cartons, Plastic, HDPE Bags must be carried by Staff/Promoters from respective department and checked by Facility Staff at Staff Entry. Scrap from Godown must be brought by HK Staff on duty. Stores where scrap is dumped from top floor must ensure only  facility staff should check & dispose the scrap from the assigned area. In stores where scrap gets dumped in vendor's pick up area, Vendor must collect scrap in presence of facility staff to ensure articles if found in the scrap, is collected and entered in the register. This will take care of reducing the pilferage loss.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All scrap to be transferred to another empty trolley by Facility Staff. Any articles found in the scrap must be recorded in this register with article details, name of the accompanying Staff etc.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Such articles must be verified  by Godown Officer and handed over to Core / Non core Officer & sent back to sections. Signatures to be done in the register by Godown Officer, Core/ Non core Officers respectively.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check for accuracy & sign in the register. Duty Managers to ensure that such incidents are not repeated.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "section": "FACILITY",
+    "title": "ERT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Dmart & 3P personnel entering through Staff Entry must enter their names in this register & remember the serial no. as the number will vary everyday. This is to maintain a count of our people inside the store during any emergency.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) While going out of the stores after duty hours the names should be cancelled by staff themselves in the register. Facility staff should not cancel entries in the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "section": "FACILITY",
+    "title": "GATE PASS FILE AND REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Gate Pass Register for ASL & AFPPL must be maintained by Facility on duty at Staff Entry and all entries will be made in serial order and the original Gate Pass must be filed in serial order by Facility staff. Originals of cancelled Gate Pass must also be filed by Facility in this file in the same order and correct entries must be made in the register.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Facility to physically check all articles going out of store, collect original Gate Pass from Vendor, sign and affix rubber stamp and record Out Time in Gate Pass  as per clock.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Details such as Gate Pass In time, Out time, Vendor Name, Quantity etc must be entered  in the Gate Pass Register after debit is sent out of store and signed by Facility staff on duty.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Managers signing on the Gate Pass must also sign in the Register before EOD. Manager signature must be done after checking entries made by Facility Staff in the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "section": "FACILITY",
+    "title": "RETURNABLE GATE PASS FILE AND REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Returnable Gate Pass Register must be maintained by Facility at Staff Entry and all entries will be made in serial order by Facility Staff on duty and the original of Returnable Gate Pass must be filed in serial order by Facility staff. Originals of all cancelled Returnable Gate Pass must also be filed by Facility in this file in the same order and details must be entered in the register.",
+        "score": 0.03
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Facility staff must physical check all articles going out of store, collect original of Returnable Gate Pass , sign and affix rubber stamp and record Out Time in Gate Pass as per clock.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Details such as Gate Pass In time, Out time, Vendor Name, Quantity, etc must be entered  in the Gate Pass Register after articles are sent out of store and signed by Facility staff on duty.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Managers signing on the Gate Pass must also sign in the Register before EOD. Manager signature must be done after checking entries made by Facility Staff.",
+        "score": 0.03
+      },
+      {
+        "sub": 5,
+        "criteria": "5) When articles covered under Returnable Gate Pass are received, a rubber stamp with \"Returnable Received, Date of return, Godown Officer Sign, Facility Sign must be recorded. This rubber stamp must be affixed on original copy of Returnable Gate Pass and Returnable Gate Pass Register.",
+        "score": 0.05
+      },
+      {
+        "sub": 6,
+        "criteria": "6) Duty Manager to sign in the Returnable Gate Pass register after verifying all details of the articles received.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "section": "FACILITY",
+    "title": "VEHICLE INWARD REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All vehicle nos to be entered in Vehicle Inward Register by Facility Staff. Only one vehicle inward register to be maintained for local vendors, DC Vehicles, Transport bundles and Scrap Vendors. Vehicle nos entered in Gate Pass and Vehicle Inward Register must be same.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Security must enter vehicle no. on reverse of PO & handover PO & Bill to vendor. Vendor bills should not be accumulated at Facility desk or Godown. Responsibility of keeping the bills rests with vendor till receiving starts.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Vehicle inward register to record Vehicle In time; Gate Pass OUT TIME, Receiving start time & Vehicle Out time. All timings to be recorded correctly as per the clock.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Manager to check for accuracy & sign in each page of the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "section": "PURCHASE",
+    "title": "STOCK OUT REGISTERS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Registers to be maintained Section wise : Tea/ Biscuits/ Ready To Eat/ Masala/ Cold Drinks/ Ghee/ Oil/ Grocery/ Cosmetics/ Detergents/ Chiller Items/ Freezer Items/ Home Care, etc ( Allocations of Sections may differ from Store to Store based on Store layout). Daily Updation of all Stock Out articles including Focus, Permanent offer, Private Label articles, etc to be done by SA irrespective of their shifts. All articles which are not found by SA during any shifts, for refilling will be entered in this register which will be maintained at Purchase Table. After updating SA should sign in the register.  Purchase Officer should not provide printouts of system stock to staff for entering in the register. Process auditor will use the master sheet to check entries in stock out register for any date and any section. No variance to be observed by the audit team.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All entries made by SA must be checked by Floor Officers.  Floor Officer must check and sign the register.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Purchase officer to check system quantities & enter quantity for stocks available in the store and inform Floor Officer to refill the same to avoid any sale loss. Purchase Officer to note articles which are not available in the store and release POs and enter valid PO no & date in comments. For DC articles, Purchase Officer to get  PR generated and enter valid PR no & date and follow up with DC for stocks. Purchase Officer to refer DC stock statement provided by Integration Team on daily basis. After mentioning appropriate remarks purchase officer should sign in register by 12 noon.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Post Purchase Officer signature, all stock out articles identified by SA working in subsequent shifts must be entered in the register and such entries are to be entered under next date. Entries in stock out register is a continuous process.",
+        "score": 0.02
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Duty Manager to check & sign in register after completing the task.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "section": "PURCHASE",
+    "title": "TOP 1000 MASTERSHEET",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Purchase Officer to maintain daily Top 1000 list provided by APMs on monthly basis. Action taken against the stock out articles to be mentioned - PO/PR number & date of PO/PR",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Purchase Officer to use the master sheet to check entries in stock out registers after updating stocks from MC.09 report. Master sheet to be maintained date wise and System Stock & Stock in days to be updated in relevant date column daily. In absence of Purchase Officers, On Sundays & Holidays, duty Managers to update the MC.09 data in the Master Sheet.  Purchase Officer to inform Floor Officer regarding any articles (from Top 1000) which are not entered by SA in the register.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "section": "PURCHASE",
+    "title": "BEST 100 CHECKLIST",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Purchase Officer to maintain datewise checklist for Best 100 + 5 PL Focus packs for the month as per recommended format. Checklist should not contain LP column. Checklist to record stocks as per MC.09, SP as recommended by Category & PL team, Correct Communication board to be maintained datewise. Purchase officer to check during floorwalk & sign on daily basis.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) To improve availability of focus article sometimes changes are made by RCM. Checklist to be updated for any corrections as approved by Regional Category Manager. Current updated checklist to be used by Purchase/ floor officers. Floor Officer to check & sign.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty/Dept Manager to check implementation on floor and sign the checklist on daily basis.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "section": "PURCHASE",
+    "title": "PRIVATE LABEL CHECKLIST",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Purchase officer to maintain Private Label checklist for the month as provided by Commercial Marketing Team from HO. SP of all articles to match with monthly list sent by Commercial Marketing Team. SP for all articles based on PO must be manually updated every day. Any changes to be routed through Commercial Marketing Team only. Any changes received from PL Team must be immediately implemented on floor. Purchase officer to check & sign on daily basis.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Stocks to be updated as per MC.09. Facings, right alignment etc to be maintained as per Visibility Guidelines provided by PL Execution Team. Facings on the shelf to be maintained as per the PL checklist (eg - 1:2, 50:50 etc) guidelines.   \"ONLY\" boards or \"BOGO\" boards suggested by Commercial Marketing Team to be mainained displaying MRP for the benefit of the customers. Floor Officer to check & sign.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Manager to check implementation on floor and sign the checklist on daily basis confirming action taken.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "section": "PURCHASE",
+    "title": "PNM FOLLOW UP",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) PNM follow up by Purchase must result in reduction of pending bills and prompt settlement of vendor bills. Details will be provided by Concurrent Audit Team for the completed month. If ageing is > 30 days or status quo is maintained the score will be zero. Duty Managers to check and ensure all PNM bills for Core & Non Core are cleared within 30 days through rigorous follow up with Purchase Officers in Stores/ Category Managers for Non Core in HO or RO. Duty Managers to follow up with Non core category team in RO / HO and settle vendor's bills. Process Auditors must check PNM file at Accounts and ensure no bills are unpaid for > 30 days. This is to ensure all rthose bills which are missed out by concurrent auditors are also checked and reported.",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "section": "PURCHASE",
+    "title": "FLOOR WALK",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Purchase Officer remarks after first floor walk in the morning detailing action plan for floor and GRN. Eg., Refilling/Board/ Facings/ FIFO/ Expiry/ Hygiene/Missing Barcodes, etc. must be entered in the floor walk register in serial order. Purchase Officer to mention all articles including Focus Packs, Private Label, Permanent Offers, Seamless articles etc. Floor walk summary to be completed by Purchase Officer after first floor walk. Purchase officer will handover the register to Floor & GRN to complete the floor walk points.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) After completion of floor walk points by Floor & GRN, they should sign the register. Purchase Officer must complete 2nd floor walk and record status of completion in the register. Purchase officer to highlight pending items in the register to enable Managers to follow up and complete the unfinished task. Details will be completed in the floor walk summary after 2nd floor walk by Purchase Officer. Purchase officer to check & sign the register on daily basis.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to mention remarks on \"Pending Points\" in Floor Walk Summary : Duty Manager must check & confirm completion of pending points by Floor & GRN and then sign the register. Process Auditor will check comments of Duty Manager in the floor walk summary. 100% of the task must be completed by Floor & GRN on daily basis. Duty Manager to ensure summary must be maintained in the suggested format.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4)Duty Manager to check all skus in top 200 as per the revised list shared from HO on a monthly basis. Display check - 15 Sku in best 100 & 25 SKUs in best 1000, from 4 different categories to be checked on a daily basis.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "section": "PURCHASE",
+    "title": "BEST 100 IMPLEMENTATION",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Availability of all Best 100 + 5 PL articles to be maintained as per category recommendations throughout the month. For all DC stock out articles Process Auditor will check availability in DC stock statement ( Provided by DC Integration Team) maintained by Purchase Officer. Process Auditor will check and enter stock quantity in DC in their reports.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Correct Communication board for SP/Offer of all Best 100 + 5PL articles to be maintained as per category recommendations throughout the month.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Secondary visibility - Check visibility implementation of  Best 100 offers + 5 PL articles on floor. Maximising secondary visibility through floor stacks, TOT end caps, other end caps and other assets like dump bins, three tier bins to be done and checked by Dept Manager, basis the execution guidelines shared with the store on monthly basis.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "section": "PURCHASE",
+    "title": "PURCHASE ROLE IN DEBIT PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GRF to be routed through Purchase. Purchase will provide vendor name, vendor code and check for write off; Ullage; Non Debitable & GST articles. Purchase to resolve GST related issues to avoid any wrong debits by godown. Reverse PO  to be made on the same date of MDBN (TRIPLICATE).",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Debit process should not be followed for write off or Ullage articles. Delinked/Delisted articles should not be cancelled from Manual Debit Notes made by Godown. All articles in the Manual Debit Note will be pending till link is opened. Such links to be opened with rigorous follow up with category team and PO to be made. For all delinked or GST related articles, Purchase should retain the duplicate copy of Manual Debit Note for reverse PO, till the issues are resolved. Post debit PO, Purchase Officer must inform Category Team to delink the articles in the system to avoid any PO generation in future.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "section": "PURCHASE",
+    "title": "PROMOTERS ATTENDANCE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Promoters Attendance Register must be maintained at Purchase table. All Promoters reporting for duty will sign in the register. Any long absence must be informed to HR Officer to take appropriate action. Only Active Promoters name must be entered in the register every month. Names of Absentees of previous month should not be entered in the next month.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "section": "SRT",
+    "title": "SRT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All SRT settlements to be done with customers after obtaining the Product & Original Bill & verifying  Bill details like store Name, Date of Bill, Amount, Barcode no., articles & quantities etc. If customer is unable to produce original bill or Original Bill already submitted, SRT must be done after verifying bill details in the system in presence of Duty Manager. Duty Manager to authenticate the same by mentioning \"Bill details verified in system\" in SRT Register. Duplicate bills must be generated for SRT Purpose. Only Managers will decide to reject any claims of customers. SRT Staff & Officers should not return the customers from SRT, other than for returns which are not acceptable as per policy.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) SRT person can do SRT in his login for all Bills within 7days. For all Bills > 7days upto 1 month SRT to be done by Manager in his login. For all Bills > 1 month AM approval to be obtained immediately and pending SRT amounts to be settled in 24 hrs with assistance from R Soft back end team. Such timely settlements of bills will result in better customer satisfaction.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All entries to be made immediately in register after SRT settlement in system. SRT amounts for more than Rs 500 to be authorised by Duty Managers and name of Manager must be recorded in remarks column in SRT register. All articles returned by customers must be entered in SRT register. Daily Updation in SRT register to be done in serial order. Settlements of CFL & Warranty articles which are more than 1 month, SRT no. will be entered in the register as per SRT done in the system. For all such SRT done in the system, SRT nos , date , Reason for return as per SRT chit, Quantities, etc must be entered correctly. No wrong entries must be made in the SRT register. Customer details to be entered in the register & customer signature on SRT Register to be obtained for all returns (Double swipe/Quality Issues/Defective articles etc can be exempted). Appropriate reasons from the drop down provided for Sale returns must be entered in the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) SRT Cashiers who are assigned duty  should only sign in the register. Pagewise totals in register will help to tally the amounts during closing of SRT.",
+        "score": 0.02
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Each entry in register to be signed by Manager present during closing of shifts. All products to be checked by Manager at the end of each shift & are to be returned to racks immediately. Comment by duty Manager \"All SKUs Checked and found correct;  All articles are returned back to section\" must be entered in SRT register during closing of each shifts or during SRT check at frequent intervals as practiced by stores.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "section": "SRT",
+    "title": "SRT CHITS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) SRT Chits to be generated immediately for all Returns during settlement with customers. Original bills must be submitted by customers. This is as per our return policy. Original Bills to be attached with SRT Chits for verification purpose. ( Bills of CFL & all  warranty articles  can be exempted.) If Original Bill is not available with Customer, Manager can authorise Sales Return at their descretion after verifying the bill details in the system and ensuring geniuneness of the return. In such cases Duplicate Bill should be generated by Duty Manager and attached to the SRT Chits.  Summary printout to be attached with SRT chits on daily basis. Auditor will check the printouts and the SRT chits for all entries for correctness.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Customer signature on SRT Chit to be obtained for all returns (Double swipe/Quality Issues/Defective articles etc can be exempted).",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) SRT Cashiers who are assigned duty should sign on SRT chit during their shifts.",
+        "score": 0.02
+      },
+      {
+        "sub": 4,
+        "criteria": "4) All SRT Chits must be signed by Manager after checking Original/Duplicate Bills, barcodes, Reason for Return, articles & quantities etc.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "section": "SRT",
+    "title": "SRT CLOSING",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) SRT closing to be done 3 times or 4 times a day as per store operation timings. Each SRT cashier to spend 4 hrs at SRT & 4 hrs at POS. If only Part Time Cashiers are available in the store, they should be working either in SRT or POS.  Such cashiers  must be rotated in SRT or POS on different days. eg: If a Part Time Cashier is working on Monday in SRT, he will be deployed on POS on tuesday, wednesday etc. Cash Officers to ensure allotment of SRT must be made in the morning and should be a daily activity. Allotment of SRT counter should not be informed in advance to cashiers.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Cash Officers should ensure cashiers to work on their own Log In & Password.  Login IDs for new joinees to be obtained immediately with HR & R Soft assistance. Cash Officers must ensure to rotate cashiers and Packers also on different days different combination of cashier & packer to be made.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Opening balance at the beginning of shift to be entered by Cash Officer in the system for SRT Cashiers IDs. For Manager Closing also Opening balance to be entered in system. Manager closing, if any, must also be done at the end of Shifts.",
+        "score": 0.04
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Deductions must be calculated correctly. Rate difference & Amounts paid for CFL/LED/Warranty articles  should not be added to physical cash. All pending SRT amounts will be shown as short in SRT closing denominationwise report. Summary format to be updated correctly for Physical Cash and SRT totals at the close of each shift. Both manual calculations and system amounts must be tallied.",
+        "score": 0.05
+      },
+      {
+        "sub": 5,
+        "criteria": "5) All closing reports to be generated Cashierwise during shift change of Cashiers including the SRT Summary, Cashier handover statement, Denominationwise closing balance with excess or short report, Rate Difference / IOU collected from accounts, 1% deduction amounts etc. For Manager Closing also same process to be followed. If in any shift there are no sales returns, closing must be done by entering the denominations",
+        "score": 0.02
+      },
+      {
+        "sub": 6,
+        "criteria": "6) Subsequent shift cashier will continue entering the SRT nos in the same serial order in the register. During closing while entering the summary details, amount paid out of SRT for each shift must be tallied correctly shiftwise/cashierwise.",
+        "score": 0.02
+      },
+      {
+        "sub": 7,
+        "criteria": "7) Cash Officers to collect SRT amounts from handover at the end of each shift & handover to next cashier before start of their shifts. This will ensure full SRT amount will be available at the beginning of all shifts. This will also avoid collecting IOU from Accounts.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "section": "SRT",
+    "title": "DELETED ITEM REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Deleted items must be checked daily by Cash Officer 30 mts before closing shifts of Cashiers. Report to be generated Cashier wise and must be used to check articles in the crates. High value articles are to be deleted by Cashier after informing Cash Officer on duty. High value, Chiller & Freezer articles to be immediately sent to the respective sections after informing the Cash Officer. Any article deleted by cashier after checking by Cash Officer should be manually entered by Cash Officer in the same sheet with articles details & quantities. This must match with one page summary report generated during store closing.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Any unbilled articles should not be accumulated at POS. Articles lying in impulse should not be deposited in crates of cashiers.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All articles must be tallied with the report and Cash Officer must note down any variance in the reports & all articles must be returned back to respective sections. For unaccounted variance, Cashiers to meet Duty Manager before leaving for the day. Such practices will help to reduce any mismatches .",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) One page summary to be printed at day end detailing cashierwise transactions for the day. Name of Cashier, Shift details, POS no & Petti No to be entered in the register while handing over POS in the beginning of Shifts. One page summary can be generated for the completed month and data can be used to select Star of the Month",
+        "score": 0.1
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Manager to do surprise checks  on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "section": "SRT",
+    "title": "1% DEDUCTION REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) 1% deductions to be made for all bills paid by Credit or Debit cards as per return policy. For quality issues, damaged articles, double swipe, wrong scanning, defective articles, rebilling, UPI payments, etc 1% will not be deducted. 1% deduction can be waived off to avoid any customer issues after Managers meet the customers personally. Such decisions will be solely based on Manager's discretion .",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Details must be recorded in the suggested format as & when amount is collected from customers. Cash Officer must check entries  shift wise and 1% amount to be tallied with 1% amount entered in the closing summary sheet for each shift. Cash Officer to check & sign the register on shift basis.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) In exceptional cases like quality issues, damaged articles, double swipe, wrong scanning, defective articles, rebilling, UPI payments, etc 1% will not be deducted. But entries to be made in 1% deductions register and remarks to be entered only for ZERO 1% deductions. For cash or UPI payments entries should not be made in 1% deduction register.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) 1% Amounts collected from customers must be settled with accounts within 24 hrs. (Weekly off & holidays being an exception). Accounts to sign with date & time after settlement with Srt.",
+        "score": 0.03
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Manager to check & sign with date in the register confirming transaction with Accounts.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "section": "SRT",
+    "title": "RATE DIFFERENCE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Rate Difference must be settled immediately after acknowledging our mistakes with customers, for all wrong communication boards. Rate Difference issues should not be settled through Sale Return.  All Rate Differences will be settled only after removing the wrong boards from the section by cash officer and retaining the same at SRT for verification. Any Online customer complaints received from HO regarding wrong boards/Price, marks will be deducted here.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All columns like customer name, signature & Contact nos.to be entered in the register and signatures to be obtained.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Cash Officer to mention \"Rate Difference paid\" in the bill against those articles. For all such cases Rate Difference paid in that respective date should be checked from the register. This will help in recovering the rate differences paid earlier. This is to avoid paying the full amount in SRT for any returns.",
+        "score": 0.02
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Communication boards for Rate differences settled must be verified by Cash Officer next day to ensure that proper boards are displayed. This is to avoid repeat of same mistakes on floor and paying Rate Difference on the same articles again.",
+        "score": 0.02
+      },
+      {
+        "sub": 5,
+        "criteria": "5) This Rate Difference settlement with accounts to be done within 24 hrs. (Weekly off & holidays being an exception). Accounts to sign with date & time after settlement with Srt.",
+        "score": 0.03
+      },
+      {
+        "sub": 6,
+        "criteria": "6) Manager to check & sign with date in the register confirming transaction with Accounts.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "section": "SRT",
+    "title": "FREE ITEM REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Free Items to be maintained at SRT will be handed over by Godown Receiving Person to Cash Officer and details must be entered in this register immediately. Details will be checked and tallied with Free Item Register in Godown. Manufacturing Date, Expiry Date, Removal Date to be recorded correctly in this register. This register to be used to track expiry in case of food items. This activity to be done in the beginning of the month to track those Free Items which expire during that month. Same Cash Officer receiving Free Items from Godown should only sign the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All free items ( with or without barcodes ) must be covered by blank stickers. This is to avoid Free Item from scanning, debiting and also can be easily retrieved from mother racks and stored at Free Item Area. \"Free Items/articles. Not for Sale\" board to be prominently displayed in the Free Item Area. All Free items attached with Mother product should be kept at mother rack as it is. In such case Cash officer to ensure barcodes of free items are not scanned at POS. Such Free item entries will not be made in register maintained at SRT.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All free items to be handed over by Packers to customers after billing and the same must be noted in the bill for easy identification & to avoid any customer complaints later. Any Free Items disposed due to damages, expiry, etc will result Zero marks here. If any free article is handed over to customers at a later date, scoring will be zero",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Manager to check implementation on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "section": "SRT",
+    "title": "LED REPLACEMENT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All CFL/LED bulbs, tubes etc not working & which are under warranty period and available in our stock, must be replaced after entering the same bill details on the replaced article ( Store Code, Bill No & Date, Warranty period, etc). Customer details to be recorded in the register and the damaged article to be handed over to Non core officer for further action. Non Core Officer to sign in register after receipt of the same. Manager to check & sign the register confirming action taken.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All CFL/LED bulbs, tubes etc not working & which are under warranty period and are out of stock must be settled immediately by cash in SRT. For all bills more than 30 days, AM approval to be obtained immediately and amounts to be settled in 24 hrs with assistance from R Soft back end team.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "section": "SRT",
+    "title": "AFPPL STOCK KEEPING REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1)  Cash officer to enter correct details while handing over premix, cones, Popcorn, Kwality Walls, etc to cashiers on shift basis. Cashiers to be rotated at Softy counter regularly.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Manager to check & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "section": "SRT",
+    "title": "AFPPL OPENING & CLOSING REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Opening & Closing activities to be completed as per SOP & same must be recorded in register on daily basis. AFPPL Counters must be operational as per store opening & closing timings. Cash Team must Focus  on maintaining hygiene as per FSSAI guidelines throughout the activities.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Manager to check & sign in the register separately for opening & Closing.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "section": "SRT",
+    "title": "AFPPL LEFTOVER DISPOSAL PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Left over premix & popcorn to be weighed in bizerba and 2 stickers to be generated for each variant. One sticker to be affixed on the left over package as per variant and 2nd sticker to be handed over to Godown officer to affix on the disposal register maintained at godown. Damaged cones and left over premix/popcorn of each variant must be handed over to Godown Officer for disposal process.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check &  sign on all stickers generated for disposal.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "section": "SRT",
+    "title": "DUPLICATE BILL REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Duplicate Bills to be generated by Duty Managers by using their own Login ID &  Password. All Duplicate Bills generated must be recorded immediately in register with Customer details  & their signatures must be obtained in register in presence of the same Manager. Manager authorising printing of duplicate bills must also sign in the register at the same time. After completing the transactions, Manager must log out of the system before leaving SRT. Manager to ensure Duplicate bills are handed over to customer after affixing the Exit stamp. Duplicate bills should not be generated in one lot during closing.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Details to be updated and tallied with system entries daily. Number of duplicate bills made during previous month /  period will be recorded in the report in absolute nos in the same serial order of printing and checked with system report which is printed on monthly basis.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Area Managers to approve log in for New Managers joining the store. For Visiting Managers from other stores, area manager must authorise them to use their own Log In credentials for this store also. This is to avoid misuse of login Id & password.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Wrong reasons for Printer problems, Rolls getting over should not be reasons for generating duplicate bills.  Sometimes customers request for bills to obtain reimbursements. Duplicate bills for such cases can be printed & are at Manager's discretion. For hardware issues, complaints must be locked in system immediately; both POS ID and  INC no. to be entered in the register. Wrong reasons for Printer issues are monitored at HO and report will be used to penalise the store if they raise wrong complaints.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "section": "SRT",
+    "title": "LOST & FOUND ARTICLES REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Lost & Found articles to be recorded in the register by SRT person immediately after receipt of the same. All Details like Product Description, Location where found & Name & signature of person who found the article must be recorded in the register.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Customer Details of Claimant person of any Lost & found article with proper ID proof & claim form to be filled & kept for verification.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) As per policy guidelines all unclaimed articles, other than cards,must be retained in SRT for 7 days & after 7th day hand over to Accounts for safe custody. All types of cards will be handed over to Accounts Officer on day 1 as per new SOP dated 13.03.2024. Accounts officer to sign with date after receiving the articles.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) All unclaimed articles which are sold in our store are to be entered in the register and sent back to racks immediately.",
+        "score": 0.03
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Manager to check & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "section": "SRT",
+    "title": "BAGGAGE COUNTER LOST & FOUND",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Leftover Baggages of Customers to be recorded in the register by SRT person immediately on receipt of the same. All Details like Product Description, Name & signature of facility staff to be recorded in the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Customer Details of Claimant person of any such article with proper ID proof & claim form to be filled & kept for verification.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) As per policy guidelines all unclaimed articles must be retained in SRT for 7 days & after 7th day hand over to Accounts for safe custody. Accounts officer to sign with date after receiving the articles.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Manager to check &  sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "section": "ACCOUNTS",
+    "title": "CASH DEPOSIT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Cash Deposit Register  :  Denominations to be updated daily before cash handover. Same denomination must be entered in the pay in slip by Jr Accounts Officer. Sr Accounts Officer, Bank Person & Duty Manager all must sign in cash room daily after cash hand over process is completed.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Different persons must be nominated to check & deposit cash. Person preparing the pay in slip for bank must sign as \"Checked by\" and Sr Accts Officer present during handover must sign as \"Deposited by. When only one Accounts personnel is available, Sr Cash Officer on duty can sign as \"Deposited By\".",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Cash Deposit Register for AFPPL/RHRL (Pharmacy)to be maintained regularly as per the frequency of deposits of that store. Cash not deposited should be counted & kept seperately for next pickup.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "section": "ACCOUNTS",
+    "title": "PETTY CASH VOUCHERS & SUMMARY",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Daily summary sheet of Petty Cash transactions opening and closing balance with physical denominations to be checked & signed by Manager. Pettycash summary with narration to be printed on the same day during closing.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Petty Cash vouchers to be signed by Recipient (person receiving the money), Maker (person preparing the voucher), Checker (Sr. Accounts officer present in the store). In Case of stores where only single accounts officer is available on a particular day, then the accounts officer who is present in the store & preparing the voucher should sign on \"Checked By\" option. In the \"Prepared By\" option accounts officer will mention \"Absent\". Supportings to be signed by Managers. Store Manager to countersign on vouchers which are approved by Duty Managers in their absence. Supportings to carry paid/Miro rubber stamp. Date on MIRO Stamp and Petty cash voucher must be same.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3)  Any purchases for our store consumption to carry \"Goods Inward with date received Stamp and round Security Stamp and date\" with proper signatures. This is also applicable for articles purchased from store, including HK articles, for store consumption.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "section": "ACCOUNTS",
+    "title": "1% SETTLEMENT WITH SRT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Accounts to settle 1%  with SRT within 24hrs. Weekly Off/ Holidays to be exempted.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Accounts to sign in 1%  register with date & time.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "section": "ACCOUNTS",
+    "title": "RATE DIFFERENCE SETTLEMENT WITH SRT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Accounts to settle Rate Difference  with SRT within 24hrs. Weekly Off/ Holidays to be exempted.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Accounts to sign in Rate Difference  register with date & time.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "section": "ACCOUNTS",
+    "title": "MIRO DELAYS > 24 HRS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) MIRO to be done in 24 hrs after GRN for all Bills & Debit Notes. Weekly Off/ Holidays to be exempted. Details of MIRO delays will be provided by Concurrent Audit Team for the completed month.",
+        "score": 0.25
+      },
+      {
+        "sub": 2,
+        "criteria": "2) 2 copies of computer debit notes to be printed by Accounts on the same day of Miro. One copy to be retained for their records and 1 copy to be handed over to Godown on the same day.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "section": "ACCOUNTS",
+    "title": "REPEATED ERRORS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Concurrent Auditors to highlight in the weekly report if same mistakes are repeated by various departments. Duty Managers to discuss with all departments and ensure prompt action. Duty Managers to ensure all bills are handed over by Accounts to Concurrent Auditors on time to ensure prompt L1 release.",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "section": "GRN",
+    "title": "RATE DIFFERENCE REGISTER : CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Mails received from Purchase, HO, RO, Commercial Marketing, Grocery Execution to be recorded in register. All Columns like Old SP, New SP, Physical quantities to be entered manually by Floor Officer for only sp change articles, System quantities, Difference, Amount, Action Taken, etc to be updated in register & signed by GRN. For all Ad hoc sp change reports  received from HO/RO, entries of Physical quantities can be exempted.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Grn to update sp changes in system & handover correct communication boards to floor. Floor officer to sign confirming action taken.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Purchase to sign in the register against  all sp changes mails sent.",
+        "score": 0.02
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check implementation on floor & then sign the register.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "section": "GRN",
+    "title": "PRICE / MARK DOWN REGISTER : NON CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Mark down register to be used to record all Rate Difference changes in Non Core. All central communication from HO/RO must be entered in the register even for same SP prevailing in the store or article not linked to the store with appropriate remarks in the register. All columns like System & Physical quantities to be entered manually only for sp change articles, Difference, Amount, Board change date etc must be entered in the register & signed by Grn. For all Ad hoc sp change reports  received from HO/RO, entries of Physical quantities can be exempted.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Grn to update sp changes in system & handover correct communication boards to floor. Floor officer to sign confirming action taken.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Execution team will record any variance for the completed month. Printouts of PMD/CMD articles to be pasted and Non Core Execution Officer's sign to be obtained for all entries during store visits.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "section": "GRN",
+    "title": "MRP CHANGE REGISTER : CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grn to record all Core Mrp changes in the register at the time of Grn. All columns like Old Mrp, Old sp, New Mrp, New SP, Old Stock, New Stock, Sale Qty, Balance Qty, Issued Qty, etc to be updated in register.",
+        "score": 0.07
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Grn to issue Barcodes for all old stocks (recorded at the time of GRN), irrespective of EAN, after reducing the sale quantity on the day of revaluation for MRP changes. Floor officer to sign confirming receipt of internal barcodes & Correct Boards from GRN.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Any unused Barcodes must be returned to GRN and these articles must be checked through Daily Stock Take register next day. GRN should reissue barcodes for any old MRP article found during recheck through Daily Stock Take register & dispose off barcodes of Not Found quantities in presence of Manager.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "section": "GRN",
+    "title": "MRP CHANGE REGISTER : NON CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grn to record all Non Core Mrp changes in the register at the time of Grn. All columns like Old Mrp, Old sp, New Mrp, New SP, Old Stock, New Stock, Sale Qty, Balance Qty, Issued Qty, etc to be updated in register.",
+        "score": 0.07
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Grn to issue Barcodes for all old stocks (recorded at the time of GRN), irrespective of EAN, after reducing the sale quantity on the day of revaluation for MRP changes. Floor officer to sign confirming receipt of internal barcodes & Correct Boards from GRN.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Any unused Barcodes must be returned to GRN and these articles must be checked through Daily Stock Take register next day. GRN should reissue barcodes for any old MRP article found during recheck through Daily Stock Take register & dispose off barcodes of Not Found quantities in presence of Manager.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "section": "GRN",
+    "title": "MRP CHANGE REGISTER : GROCERY",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grn to record all Pack Grocery Mrp changes in the register at the time of Grn. All columns like Old Mrp, Old sp, New Mrp, New SP, Old Stock, New Stock, etc to be updated in register.",
+        "score": 0.07
+      },
+      {
+        "sub": 2,
+        "criteria": "2) In case of Packed Grocery MRP changes GRN will issue barcodes for old MRP stocks only if New SP is more than OLD MRP. Floor officer to sign confirming receipt of internal barcodes & Correct Boards  from GRN.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Any unused Barcodes must be returned to GRN and these articles must be checked through Daily Stock Take register next day. GRN should reissue barcodes for any old MRP article found during recheck through Daily Stock Take register & dispose off barcodes of Not Found quantities in presence of Manager.",
+        "score": 0.03
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "section": "GRN",
+    "title": "SP CHANGE REGISTER : CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Core SP changes to be recorded in the register at the time of GRN. All columns like Old Mrp, Old sp, New SP, Old Stock, New Stock, Offer Details, Action Taken etc to be correctly updated in register.",
+        "score": 0.06
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All communication boards to be issued by GRN as per R Soft report & All prices to be checked & correct boards must be put up before customer entry. Process auditor must do a random check of SP & Boards for articles from RSOFT Report  during floorwalk.  Communication boards should not have any spelling mistakes. Floor officer to sign confirming  Correct Boards collected from GRN.",
+        "score": 0.06
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "section": "GRN",
+    "title": "SP CHANGE REGISTER : NON CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Non Core SP changes to be recorded in the register at the time of GRN. All columns like Old Mrp, Old sp, New SP, Old Stock, New Stock, Offer Details, Action Taken etc to be correctly updated in register.",
+        "score": 0.06
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All communication boards to be issued by GRN as per R Soft report & All prices to be checked & correct boards must be put up before customer entry. Process auditor must do a random check of SP & Boards for articles from RSOFT Report  during floorwalk.  Communication boards should not have any spelling mistakes. Floor officer to sign confirming  Correct Boards collected from GRN.",
+        "score": 0.06
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "section": "GRN",
+    "title": "SP CHANGE REGISTER : GROCERY",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Grocery (Loose/Pack) SP changes to be recorded in the register at the time of GRN. All columns like Old Mrp, Old sp, New SP, Old Stock, New Stock, Offer Details, Action Taken etc to be correctly updated in register.",
+        "score": 0.06
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All communication boards to be issued by GRN & All prices to be checked & correct boards must be put up before customer entry. Process auditor must do a random check of SP & Boards for articles from RSOFT Report  during floorwalk. Communication boards should also be made in local language & not have any spelling mistakes. Floor officer to sign confirming  Correct Boards collected from GRN.",
+        "score": 0.06
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check implementation on floor and sign the register.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "section": "GRN",
+    "title": "GRN CANCELLATION REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) For all Grn cancellations a Mail has to be sent to Master Data & has to be approved by authorised personnel like Area Manager/CH. All Grn cancellations including Debit cancellations to be recorded in register. All details like date of communication, old GRN no & date, Inward no/Debit note no & date, Cancellation no & date, new GRN no & date, reasons for cancellation, etc must be recorded in register.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) For all internal errors only 24 hrs is available from Inward Date for GRN cancellations & new GRN to be made. For GRN cancellations where external help is saught, New Grn must be made in 72 hrs . External help is required in non core for PO Blocked; New Article Link; MRP Changes; Article mismatch; New Invoice etc. where category team is involved.",
+        "score": 0.07
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "section": "GRN",
+    "title": "MB51 REPORT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GRN to provide MB51 report with relevant details to Godown, Core & Non Core Floor Officers on daily basis. Separate report for 101 ASL & AFPPL receivings & 161 Debit details to be provided to godown. MB51 report will help Godown to enter GRN no. & also verify Quantity, Inward No., Invoice No. etc.  This will also ensure New Grn is made in 24hrs even after cancellations.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the report confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "section": "GRN",
+    "title": "BARCODE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Must record all barcodes (excluding MRP change) issued by GRN. Any barcodes printed by officers or Managers in absence of GRN officers  must also be entered in the register. Barcodes to be handedover only to floor officers & Warehouse officers & their signatures must be obtained after handing over the barcodes. No loose barcodes to be left in GRN, Warehouse or Floor.",
+        "score": 0.07
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "section": "GRN",
+    "title": "RETURN BARCODE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All unused barcodes of Mrp Change, PMD, etc must be returned to GRN on the same day and same must be entered in \"Returned Barcodes Register\" immediately. These articles must be checked through Daily Stock Take register next day (PMD being exception). Barcodes returned from PMD to be destoryed immediately in presence of Duty Manager.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) GRN should reissue barcodes for articles found during recheck through Daily Stock Take register &  Barcodes of articles not found through Daily Stock Take register must be disposed off immediately in presence of duty Manager.",
+        "score": 0.03
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "section": "GRN",
+    "title": "GROCERY REPACKING BARCODE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Correct No. of barcodes for Grocery repacking  to be issued immediately to Floor Officer. Floor officer to sign confirming  Correct Barcodes collected from GRN.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "section": "GRN",
+    "title": "PLU  & BIZERBA UPDATE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) PLU for loose grocery to be run and system to be updated in the morning before store opening & correct barcodes are released at Bizerba. Grn to handover list of all loose grocery sp change articles to floor officer.",
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "section": "GRN",
+    "title": "PI (DRY FRUITS/GILLETE/GHEE)",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Physical sheet of all articles in PREMIA DRY FRUITS/BRANDED DRYFRUITS/GILLETE/GHEE to be handed over to floor daily. Grn must only mark differences in physical sheet and return to floor officers for recheck. GRN should not provide system stocks to floor.  Floor to update physical quantities available in category, Top Top & Godown in this sheet & handover to Grn.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) New Articles must be uploaded in our PI system with IT support within 24hrs of Grn. A mail must be sent from SM Id to IT Support for updating New articles in the system.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) After rechecking by Floor, GRN must check the counting and totalling done by Floor in the physical sheet and the final count must be updated in System.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) After updation in system, Printouts of PI Documents with Previous day's variance for all above articles must be taken & same must be filed with the same Physical sheet used by Floor for verification during audit. This activity to be completed by 11am. System  Printouts of PI Documents for all above articles must be checked, verified for authenticity and signed by Duty Manager on daily basis with proper remarks .",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "section": "GRN",
+    "title": "DAILY STOCK TAKE REGISTER : CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GRN should provide the articles for 10 items from the last stock take variance report and the same will be across categories. GRN should only list articles of minimum 20 units & above for low value articles and for high value articles 10 units & above. Over & above these 10 items no. of articles from Returned Barcode Register, Core Rate Difference Register & any additional articles as per manager discretion should also be recorded & checked.",
+        "score": 0.06
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Floor to update physical stocks in 10 Item Register & then Grn will update system stock & mark differences in 10 item register for floor to recheck. After Rechecking Floor to mention Found articles in Found column & Not Found articles in Not Found column.  For Found Articles Floor to mention location where articles were found & for Not Found articles floor to calculate Value on MRP. Floor Officer to sign in register after completing the process.",
+        "score": 0.06
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check &  sign the register confirming action taken.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "section": "GRN",
+    "title": "DAILY STOCK TAKE REGISTER : NON CORE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GRN should provide the articles for 10 items from the last stock take variance report and the same will be across categories. GRN should only list articles of minimum 20 units & above for low value articles and for high value articles 10 units & above. Over & above these 10 items no. of articles from Returned Barcode Register, Non Core Markdown  Register & any additional articles as per manager discretion should also be recorded & checked.",
+        "score": 0.06
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Floor to update physical stocks in 10 Item Register & then Grn will update system stock & mark differences in 10 item register for floor to recheck. After Rechecking Floor to mention Found articles in Found column & Not Found articles in Not Found column. For Found Articles Floor to mention location where articles were found & for Not Found articles floor to calculate Value on MRP. Floor Officer to sign in register after completing the process.",
+        "score": 0.06
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "section": "GRN",
+    "title": "CORE  NEW ARTICLES REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All new articles in Core  to be entered in this register after GRN. Right communication boards to be issued by GRN for all new articles. Communication boards should not have any spelling mistakes. Floor officer to sign confirming  Correct Boards collected from GRN.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check display & Board on floor & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "section": "GRN",
+    "title": "NON CORE NEW ARTICLES REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All new articles in  Non Core to be entered in this register after GRN. Right communication boards to be issued by GRN for all new articles. Communication boards should not have any spelling mistakes. Floor officer to sign confirming  Correct Boards collected from GRN.",
+        "score": 0.08
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check display & Board on floor & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "section": "GRN",
+    "title": "NON CORE 0003 REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grn to receive List of Damage articles identified by floor officer during floor walk on daily basis.  The same must be entered manually in 0003 Register by Floor Officer. Floor Officer to sign in the register.",
+        "score": 0.03
+      },
+      {
+        "sub": 2,
+        "criteria": "2) These damaged articles to be moved in 0003 location in system by Grn. System Quantity of damaged articles should match with Physical quantity entered in the register. This activity should be done for atleast 24 days in a month. Proper remarks must be entered by Grn for all those articles which could not be moved to 0003 location. Grn no. must be entered in the register. Grn to sign confirming movement of articles in 0003 location.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "section": "GRN",
+    "title": "GRN PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GRN to receive sample baskets, PO & Bill from Godown Receiving Team. GRN to scan all articles and update in the system. \"No Scanning No GRN\" to be followed strictly. Article no./Barcodes should not be manually entered by Grn. GRN to make a list of all non scanning articles and forward to SM for corrective action to help in completing GRN by scanning.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) GRN to ensure system entries for all receivings in the store are done in 24 hrs(Sundays & Holidays to be exempted) including Mrp Change/EAN Change/Scheme issue/Not Linked/GST issue, etc.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Sample Trolleys containing Sp change, Mrp change & New articles should be handed over to floor officer for verification with R soft report. Sample Trolleys of all other articles must be handedover to floor officer immediately after Grn.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) For all DC receivings, full GRN to be made and follow up to be maintained with DC on mail to resolve the issues. Partial GRN is allowed only for those articles with EAN Change, Article mismatch, MRP Change, Case Lot changes etc and must be resolved within 48 hrs from Inward date with rigorous Follow Up with DCM.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "section": "GODOWN",
+    "title": "RECEIVING PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Receiving person must receive PO & Bill with Security Stamp. PO & Bill must be checked for correct address before receiving. Sample baskets alongwith PO & Invoice to be checked for all details",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Debits to be handed over before receiving starts",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Receiving person to check ground stocks and supervise put away (in the godown) of the entire quantities by vendor. Enter details in Inward Register immediately after each receiving is complete.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Handover sample basket, PO & Invoice to GRN after each receiving is entered in the register",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "section": "GODOWN",
+    "title": "INWARD REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Entries in the Inward Registers  made by Receiving Person immediately after receiving each PO/Bill. This is to avoid double entries for the same Inward No or entries made in wrong registers. Inward Nos to be serially entered. Nos to be continued in the same sequence with only month no changing - Eg 01/234 (last entry for Jan); 02/235 (1st entry for Feb) etc.  Overwriting, Use of Whitener or blank stickers, etc should not be done to cover any wrong entries.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Separate Registers to be maintained for Core FMCG; Core Grocery (Pack & Loose with partition); Non Core (with partitions) : Garments; Hosiery; Footwear; Plastics; Stainless Steel; Bed&Bath; Seasonal; Stationery etc. Proper abbreviations for each section to be entered correctly. For FMCG : 01/001; Pack Grocery : 01/PG/001; Loose Grocery : 01/LG/001; Garments : 01/G/001; Footwear : 01/F/001; Hosiery : 01/H/001; Plastics : 01/P/001; Stainless Steel : 01/SS/001; Bed & Bath : 01/BB/001; Seasonal : 01/S/001; Stationery : 01/ST/001 etc.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Receiving person must enter all details in the register including Vendor Name; PO no; Invoice No; Brief Descripton; Bill Quantity; Invoice Amount; Time; Name of receiver; Signature. Godown Officer to check & sign for entries made by Godown assistant. Receiving Officer to enter the correct Inward No on Invoice & PO. Entries must be made after completion of each receiving i.e. for each PO & Invoice & sample basket must be handed over to GRN immediately. This is to provide adequate time for GRN to make error free entries in the system.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Godown Officer to check all entries in the inward register with MB 51 report provided by GRN every day and enter the correct GRN no & Date in the register. If any new GRN nos are observed in the inward sheet due to cancellations, new GRN nos to be entered in Inward Register after striking the old GRN nos. For Partial Grn second Grn no. & Date must also be entered in the register. If any discrepancies are noticed, Godown Officer to verify the details with the hard copy of PO & Invoice, inform Grn for necessary corrections and enter correct details   after informing the Duty Manager.",
+        "score": 0.1
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Duty Manager to check entries in the register with inward sheet and sign for each entry. Duty Manager to provide timely inputs to the godown team to minimise errors in the receiving process.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "section": "GODOWN",
+    "title": "SOFTY INWARD REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Softy Inward Register : Both sections of the register must be updated. Inward details for Softy Premix, Popcorn, Kwality Walls & Cones for GRN and MIRO details for expenses section. Part 1: Raw materials, Where we do GRN. Series for inward No to begin with 01/AFPPL/01. GRN number along with Date to be mentioned in the inward register. Overwriting, Whitener or blank stickers should not be done to cover any wrong entries. Softy Expenses: All entries of other material for which GRN is not made,needs to be entered in the  2nd Part (Disposables, Water & Machine Spares & other items). The series to have Prefix 01/FPEX/01. Document number provided by Accounts with date needs to be entered in the register.",
+        "score": 0.2
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Godown Officer to check all entries in the inward register with MB 51 report provided by GRN every day and enter the correct GRN no & Date in the register. If any new GRN nos are observed in the inward sheet due to cancellations, new GRN nos to be entered in Inward Register after striking the old GRN nos. If any discrepancies are noticed, Godown Officer to verify the details with the hard copy of PO & Invoice, inform Grn for necessary corrections and correct details to be entered after informing the Duty Manager.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check entries in the register with inward sheet and sign for each entry. Duty Manager to provide timely inputs to the godown team to minimise errors in the receiving process.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "section": "GODOWN",
+    "title": "TRANSPORT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Details on LR, PO, Bill must be checked for the correct address before unloading the transport bundles. Each bundle to be weighed & weight of each bundle to be checked with LR & to be  entered in register.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Bundles to be opened & entries in Inward register to be done on same day. All details to be entered in the register like LR no; Transport name; Vendor Name; No of Bundles; PO No; Invoice No; Weight of bundles; Inward No. & Date, GRN No & Date. etc. GRN details to be entered from MB 51 Inward Sheet next day",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign after verifying correctness of all entries in the register",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "section": "GODOWN",
+    "title": "OTHER INWARD REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Bills for all other articles purchased for store use to be stamped with security stamp when these articles are brought to the store. Bills signed by Duty Manager must be handed over to Godown Staff for entering in the register. Entry to be made immediately in the other inward register and Inward No to be recorded on the bills. Godown Staff to ensure Bill Date,  Date on Security stamp and Date on Godown Inward Stamp should be same. Bills to be handed over to Accounts on the same day for payment process. Accounts to sign with date & time in the register. (Sundays & Holidays to be exempted). For Articles received in absence of Godown officers, entries in the register must be made by Duty Manager. Such bills will be handed over to Accounts on next day.",
+        "score": 0.2
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Photocopy of Gate Pass received from other stores for Returnable Articles to be also stamped by Facility and handed over to Godown Staff on the same day. Details will be entered in the register. This will be used by godown Staff while returning the articles within 30 days.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to  sign in register at day end after checking the articles & confirming all entries are made correctly in the register",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "section": "GODOWN",
+    "title": "DEBIT PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Godown Officer to receive debits from floor alongwith Goods Return Forms (GRF) duly completed with all details and signed by SA, Floor Officer, Purchase Officer and finally approved by Duty Manager. Manual Debit Notes (in Triplicate) must be made for all articles in each GRF received on the same day. Articles entered in GRF and handed over to Godown should not be cancelled in GRF. Godown officer to enter MDBN no. on GRF & sign. GRF received from Floor after Purchase Officer has left for the day must carry \"Debit After 7 PM\" rubber stamp, to be affixed by Godown staff on GRF. MDBN for all such GRF will be made next day morning after getting GRF approved by Purchase Officer. In such cases date on GRF & MDBN will differ by one day.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Damaged articles for debit should not lie in godown without any GRF or MDBN or proper documentation. \"Damaged Articles Not For Sale\" board must be prominently displayed in the debit area. Proper hygiene must be maintained in the debit area without any oil spill on floor.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Godown Staff must pack the debit articles with original MDBN and store in Debit Area (Oil/Ghee/Freezer/Chiller items being an exception). This packing must be opened only when vendor comes to pick up debit either before receiving or exclusively for debit pick up.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) \"Debit Given and No Debit\" rubber stamps to be used appropriately and the same must be affixed by godown on the reverse of our purchase order and duplicate copy of vendor's bills while handing over debits.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "section": "GODOWN",
+    "title": "DEBIT NOTE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Godown officer must enter Srl No, MDBN no, Date, Vendor name & Quantity details immediately in the register. Godown officer must enter all details from MB 51 for Debits (Movement Type 160) provided by GRN. Eg PO No; Date; Debit Value etc. System Print out must be collected from Accounts on the same day of Miro. If more than one invoice is referred, suffix A, B,C etc appear near PO no.  Amount entered will be total of all these PO's. All system printouts received from accounts to be maintained in a folder in alphabetical order.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Signature & Contact nos of vendor must be obtained on Gate Pass; DBN Register before handover of Debits. Gate Pass no; Returned Date;Name of vendor & Signature etc must be completed in the DBN register. Debit Articles & System Printouts to be handed over to vendor after completing entries in the register. For all food articles, Godown Staff must affix rubber stamp informing \"Damaged Food articles not fit for human consumption\". This stamp must be affixed on System printout of Debit Note handed over to Vendor.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Debit articles to be picked up by vendor in 30 days for CORE & NON CORE. Debits should not be accumulated in our stores. For Eg : we should not wait till last week of the month to accumulate all debits and handover to vendors who visit us on a weekly basis.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "section": "GODOWN",
+    "title": "FREE ITEM REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Free Items must be received at Godown including Samples for Free Distribution to customers. No wrong deliveries to be accepted by Godown like near expiry for food items etc. Refer guidelines as per the FSSAI details. Godown Officer to check quantities of Mother & Child items as per the bill and make no mistakes while receiving. Register must be updated & signed by Godown Receiving officer.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All Free articles barcodes to be covered by blank sticker while receiving at the godown.  All free articles must be handed over to Cash Officer immediately and signature of the receiving cash officer and date to be updated in the register. Any damages in free items to be recorded in the register and only good stocks must be handed over to Cash Officer. All Free items attached with Mother product should be handed over to Floor officer.  Such Free item entries will be received & signed by Floor officer.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign register confirming action taken.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "section": "GODOWN",
+    "title": "EXCESS ARTICLES REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Articles which are in excess as per PO & Bill must be stored in the Excess Location.  All Details entered in this register must be for only all such articles. Articles received in Godown but are unable to do GRN due to Scheme Issues, Landing Issues etc should not be treated as excess & should not be stored in excess location.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Mail approval to be obtained from AM or CH as per the value of excess articles immediately and a copy of approval to be maintained at Godown. Excess articles can be handed over to vendors based on such mail approvals. Excess stocks are handed over to Vendor only after a letter is received from Vendor.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3)  Quantities of articles received in excess must be handed over in full to the vendor. Quantities should not be adjusted against stock shortages in the store. Gate Pass to be made and Gate Pass no must be entered in the register",
+        "score": 0.15
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Non core articles received in excess must be informed to the category team by E Mail and their instructions must be followed.",
+        "score": 0.05
+      },
+      {
+        "sub": 5,
+        "criteria": "5) As per Guidelines, Appropriate signatures of SM/AM/CH to be obtained in the register after handing over Excess articles to the vendor.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "section": "GODOWN",
+    "title": "GATE PASS BOOK",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) A Gate Pass must be made by Godown officer for all articles going out of the store premises. All such articles must go out from Staff Entry to enable Facility to check.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) If any Gate Pass is cancelled, serial number must be maintained in the file by Facility and same remarks for cancellation must be entered by Duty Manager on both copies of Gate Pass.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All details in the Gate Pass to be filled by Godown officer correctly. Godown Officer will enter the Vehicle no. on the Gate Pass as provided by  Facility staff on the reverse of PO. No wrong Gate Pass to be made by Godown officer. IN TIME  entered should be as per clock.",
+        "score": 0.2
+      },
+      {
+        "sub": 4,
+        "criteria": "4) When Gate Pass for returnable articles of other stores are made, reference of old Gate Pass No; Other Inward No & Date must be mentioned on the same. Photocopy of the old Gate Pass with Inward No must be attached to original copy of Gate Pass made by returning store.",
+        "score": 0.1
+      },
+      {
+        "sub": 5,
+        "criteria": "5)  Godown officer must handover debit articles, Computer debit note Original copy and Original Gate Pass to vendor or the person carrying the articles along with all other documents. Facility staff must check & collect original copy of Gate Pass from vendor.",
+        "score": 0.1
+      },
+      {
+        "sub": 6,
+        "criteria": "6) For all food articles, Godown Staff must affix rubber stamp informing \"Damaged Food articles not fit for human consumption\". This stamp must be affixed on both copies of Gate Pass and Computer printout of Debit Note handed over to Vendor.",
+        "score": 0.1
+      },
+      {
+        "sub": 7,
+        "criteria": "7) Godown Staff must obtain signature of Duty Manager on Gate Pass before handing over the articles. Manager signing the Gate Pass for Debit articles should check all entries are made correctly as per Computer printout of Debit note.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "section": "GODOWN",
+    "title": "RETURNABLE GATE PASS BOOK",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) A returnable Gate Pass must be made by Godown Officer  for any article which is sent out of the store and is to be returned by other stores within 30 days. Store will be penalised for all delays beyond 30 days without any exception. All Returnable Articles must be received within 30 days with rigorous follow up.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Any article sent on returnable Gate Pass to Vendors for repairs as per Maintenance Manager, the same should be received in 30 days. For any delays a mail communication from MM to CH must be available for audit verification. Such mails must be sent by MM well in advance and not after crossing 30 days.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) When articles are sent to other stores a photocopy of the Returnable Gate Pass must also be handed over for their records and this will be used to enter in Other Inward Register by the receiving store. This will enable the receiving store to identify the article received and details in returnable gate pass entered by the sender. Any mismatch must be brought to the notice of Duty Manager and resolved immediately.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) If any Returnable Gate Pass is cancelled, serial number must be maintained in the file by Facility and same remarks for cancellation must be entered by Duty Manager on both copies of Returnable Gate Pass.",
+        "score": 0.05
+      },
+      {
+        "sub": 5,
+        "criteria": "5) All details in the Returnable Gate Pass to be filled by Godown Officer correctly. Returnable Gate Pass must be signed by Godown Officer. IN Time to be recorded as per clock.",
+        "score": 0.05
+      },
+      {
+        "sub": 6,
+        "criteria": "6) Godown Officer must obtain signature of Duty Manager on Returnable Gate Pass before handing over the articles.",
+        "score": 0.05
+      },
+      {
+        "sub": 7,
+        "criteria": "7) When articles covered under Returnable Gate Pass are received, a rubber stamp with \"Returnable Received, Date of return, Godown Officer Sign, Facility Sign must be recorded. Duty manager should verify the articles & sign in the Gate Pass confirming the same.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "section": "GODOWN",
+    "title": "WEIGHING SCALE CALIBRATION REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Calibration to be done as part of Godown activity in the morning every day. Weight to be recorded in the register. Discrepancies, if any, to be recorded, informed to Duty Manager. Complaints to be locked in System and corrective action must be taken to resolve in 48 hrs. Prior Mail communication from Maintenance manager must be available for verification for delays due to repairs, etc.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "section": "GODOWN",
+    "title": "DISPOSAL REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) For all Write off articles list to be made as per SOP and proper approvals must be obtained. This record must be maintained by Godown Officer. For all Vendor Debits Disposal approval mail from vendor must be available for verification. For Grocery Matra disposal total weight must be recorded.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All write off & Vendor debit articles must be disposed off in presence of Area Manager, Duty Manager, Godown Officer & Facility Staff.  Grocery Matra disposal to be done in presence of Duty Manager, Godown Officer & Facility Staff. Names & Signatures of all these personnels for all disposals must be recorded in the disposal register.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Godown Staff must prepare a Gate Pass for all disposal articles. Gate Pass for Vendor debits; Write Off articles; Ullage articles etc.  must be signed by AM / CH confirming disposal in their presence. Grocery Matra Gate Pass to be signed by Duty Manager.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) All write off articles for disposal must be destroyed in presence of AM within 7 days post verification by Internal Audit team.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "section": "GODOWN",
+    "title": "SOFTY DISPOSAL REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Godown Officer to receive Left over premix of softy ice cream, Popcorn and damaged cones, popcorn Bags from Cash Officer on daily basis. Premix, Popcorn to be packed and weighed in Bizerba and 2 barcodes for the relevant variants to be printed by Cash Officer & handed over to Godown officer for disposal.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Godown Officer to prepare Gate Pass & record all details in the AFPPL Disposal Register and affix bizerba barcodes in the register. Gate Pass no to be entered in the register.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Godown Officer to obtain Duty Manager signature on Gate Pass and handover the articles to Facility staff for disposal. Finally articles must be disposed off in presence of Godown Officer, Duty Manager and Facility Staff and all signatures to be made in register",
+        "score": 0.15
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Damaged Cones & Popcorn Bags received from cash Officer to be moved to 0003 location on daily basis. After Reconcilation by Audit team, Cones & Bags must be disposed off in presence of Auditor & Duty Manager. Gate Pass to be signed by Duty Manager & details to be recorded in the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "section": "CORE",
+    "title": "DEBIT PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Goods Return Forms : GRF to be made immediately on spotting debits on floor while refilling, customer handling, etc. and the same must be handed over immediately from floor to warehouse along with debit articles. Debits should not be accumulated on Floor, Rack or Top Top at any given time. GRF to be signed by SA, Floor Officer, Purchase Officer, Manager & then finally handed over to Godown by SA.",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "section": "CORE",
+    "title": "TOP TOP MAINTENANCE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Not more than 2 cartons to be kept on Top Top and height should not be more than 20 inches as per safety guidelines. No loose articles to be kept on Top Top. Improper stacking of cartons on top top, which can cause customer issues, accidents, incidents etc must be avoided.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "section": "CORE",
+    "title": "CHILLER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Hygiene in Chiller & periphery must be maintained all times. Chiller must be in neat & clean condition at all times. Damaged articles, Damage packing, etc should not remain in chiller.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Chiller to operate at the recommended temperature between 0 and 8 degrees. If anytime chiller temperature displays Defrost mode, corrective action to be taken immediately. Checklist to be maintained for all chillers in store & all details to be updated at frequent intervals.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the checklist.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "section": "CORE",
+    "title": "FREEZER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Hygiene in Freezer & periphery must be maintained all times. Freezer doors must be in neat & clean condition and should be closed by Staff, if found open, to maintain quality of the articles. Damaged articles, Damage packing, etc should not remain in Freezer.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Freezer to operate at the recommended temperature between -18 and -22 degrees. If anytime Freezer temperature displays Defrost mode, corrective action to be taken immediately.  Checklist to be maintained for all Freezers in the store & all details to be updated at frequent intervals.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the checklist.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "section": "CORE",
+    "title": "BAR CODES FOR MRP CHANGE ARTICLES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Floor Officer to sign in Mrp Change Register after collecting Internal Barcodes from Grn for MRP change articles.  Internal barcodes collected by Floor Officer must be used to affix on all old MRP stocks on floor. Barcoding activity must be done at back office or godown only. No loose barcodes must be lying on floor or in person.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Unused barcodes to be handed over to GRN for safe custody. For all Articles found though Daily Stock Take register next day, floor officer must collect barcodes from GRN and affix on found articles.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "section": "CORE",
+    "title": "GROCERY REPACKING BARCODES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grocery repacking must be done on daily basis. If Repacking is not done due to no damages, Floor Officer must enter \" Articles Not Available For Repacking \" remark in the register. Details of all repacked articles to be entered in the register",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Floor officer to collect Correct barcodes with national EAN from GRN for the repacked quantity & affix on the articles & then sign the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign  in the register after completion of the task.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "section": "CORE",
+    "title": "PLU BARCODE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Floor officer to collect list of sp change articles from GRN. PLU to be run by GRN for all sp changes including benchmarking  on daily basis before Customer entry. After PLU is run by GRN, floor officers to check updation in all Bizerba terminals in the store with list provided by Grn.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Barcodes for SP change articles must be printed in each Bizerba Machine and affixed in the PLU Barcode Register in the same serial order. Each Bizerba must have a unique no which should be printed in the barcode for easy identification. Grn & Floor Officer to sign the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign in register after completion of the task in the morning.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "section": "CORE",
+    "title": "BIZERBA BARCODES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Cashiers working on Bizerba must ensure hygiene is maintained. No loose barcodes should be stuck on terminal rods or tables around Bizerba. Loose grocery should not be spilled over the Bizerba.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Wrong barcodes should not be affixed on loose grocery to avoid any customer issues for charging higher SP or charging lower SP and incurring loss for D Mart. All Bizerba Cashiers to check name of the article displayed before generating the barcode.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "section": "CORE",
+    "title": "BIZERBA, REPACKING & GOLD FIELD CALIBRATION",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Bizerba weighing scales must be available at the same place where it was connected in the store and should not be moved. Gold field weighing scale must be maintained behind cash counter & near customer entry and switched on during the entire store operation timings. This is a statutory requirement as per Legal Metrology Guidelines.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) If any Bizerba is not functioning, Complaints to be locked for non working machines and the same to be rectified in 48 hrs. (If any parts are to be repaired/replaced as per Maintenance Manager, prior communication on mail to CH must be available for verification) Spare Bizerba, if any, is available at the store, can be replaced with non working bizerba next day morning before PLU is run. After completing the repairs, the old Machine must be connected to the same location next day morning before PLU is run and the spare Bizerba must be moved to Manager's Cabin for safe custody.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) \"Counter closed\" boards to be placed on Bizerba Machines which are not in operation during lean period. Such Bizerba Machines must be switched off after PLU is updated and Calibration is recorded. This will ensure Customers do not misuse and print wrong barcodes.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) All Bizerba, Repacking & Gold field machine's calibration to be done 4 times in a day as scheduled at 8 am, 12 noon, 4pm & 8pm. Details must be recorded in the Calibration Sheet in Grocery Execution Book. Duty Manager to  check & sign in calibration sheet after completion of task.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "section": "CORE",
+    "title": "PI : GHEE; DRY FRUITS; GILLETTE ARTICLES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1)Total physical quantities must be entered by Floor before handing over their observations to GRN in the morning. Physical quantities of any New article available on floor but not entered in Physical sheet must also be recorded by floor team. Floor officers must recheck and record findings on daily basis.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager can initiate recheck for a second round for major differences. This activity must be completed by 11am.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "section": "CORE",
+    "title": "DAILY STOCK CHECK REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Physical quantities for all articles provided by GRN must be entered by Floor.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Floor officers to recheck differences which are marked by GRN after verifying system stocks. Mention Found & Not Found Remarks for all Variances in all records on daily basis. This activity must be completed by 11am. Floor Officers must physically check all Found articles and mention location where they found the same. For all Not Found articles Floor Officers should calculate the values on MRP. Total variance in quantities and value for the day must be done by Floor Officers and the same should be discussed with Duty Manager for further action plan & then sign the register.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to check & sign the register confirming action taken..",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "section": "CORE",
+    "title": "COMMUNICATION BOARDS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Floor officers to ensure right communication boards are maintained by SA/Promoters in all sections across the store throughout store operation timings. All SA's must also check and ensure availability of all correct communication boards at all times. Price board to be in vernacular language for Top 200 articles",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All Board formats must be as suggested by category, PL teams & must be maintained as per SOP. There should not be any spelling mistakes on any communication boards.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) No Rate Difference complaints must  be received at Customer Care due to wrong communication board in category. If wrong boards result in rate difference settlements in srt, score will be ZERO.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "section": "CORE",
+    "title": "FLOOR WALK POINTS UPDATION",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Floor walk points including Focus packs & PL articles must be completed by Floor officer (100%). Eg: Refilling/Board/ Facings/ FIFO/ Expiry/ Hygiene etc.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "section": "CORE",
+    "title": "GROCERY SP & COMMUNICATION BOARDS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GROCERY National EAN articles : All Correct Communication boards for Pack & Loose Grocery articles to be displayed before Customer entry. System SP and board SP must be same and to be checked on daily basis by scanning all packed grocery articles in nominated POS using shift B option. MRP change barcodes (When New SP is more than Old Mrp) & SP change boards must reflect on the floor next day. ALL GROCERY BOARDS TO BE ROUNDED OFF TO NEAREST 50 PAISE.",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "section": "CORE",
+    "title": "GROCERY EXECUTION BOOK",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Grocery Execution Book to be updated daily before customer entry by scanning all packed grocery articles in nominated POS using shift B option. For Stock out articles system quantities to be entered in Board column by Grn. Floor Officer to enter No. of stock out articles & then sign.",
+        "score": 0.2
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign before customer entry confirming action taken.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "section": "NON CORE",
+    "title": "DAILY STOCK TAKE REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Physical quantities for all articles provided by GRN must be entered by Floor.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Floor officers to recheck differences which are marked by GRN after verifying system stocks. Mention Found & Not Found Remarks for all Variances in all records on daily basis. This activity must be completed by 11am. Floor Officers must physically check all Found articles and mention location where they found the same. For all Not Found articles Floor Officers should calculate the values on MRP. Total variance in quantities and value for the day must be done by Floor Officers and the same should be discussed with Duty Manager for further action plan & then sign the register.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3)  Duty Manager to check & sign the register confirming action taken.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "section": "NON CORE",
+    "title": "FLOOR WALK REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1 Non Core Officer must record appropriate remarks after first floor walk in the morning alongwith Duty Manager detailing action plan for floor and GRN. Eg., Refilling/Board/ Facings/  Hygiene/Missing Barcodes, etc. must be entered in the floor walk register in detail. Non Core Officer to mention all articles including Focus Packs,  Permanent Offers. Floor walk summary to be completed by Non Core Officer after first floor walk. Non Core officer will handover the register to GRN to complete the floor walk points. After completion of floor walk points by GRN, they should sign the register.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Non Core Officer to go for 2nd floor walk and report status of completion in the register. Non Core officer to highlight pending items in the register to enable Managers to follow up and complete the unfinished task. Details will be completed in the floor walk summary after 2nd floor walk. Non Core officer to sign the register on daily basis after completing their task.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Duty Manager to mention remarks on \"Pending Points\" in Floor Walk Summary : Duty Manager must check completion of pending points by Floor & GRN and then sign the register. Process Auditor will check comments of Duty Manager in the floor walk summary. 100% of the task must be completed by Floor & GRN on daily basis.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "section": "NON CORE",
+    "title": "ZERO SALES REPORT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Execution Manager to send list of Garments articles on Zero Sales every 15 days starting 4th Week Monday & GM articles every 7 days. Receiving (GRN) date considered will be one week prior to report generation date. Articles with closing stock value of Rs 3000 & above will be considered and Quantities of articles will be 0, 1 & 2 units. On receipt of Mail, Non core team will file the list & check for all articles in the XL file and complete task in 4 days from Mail Date. Execution Officer to verify for correctness of Remarks entered by Non Core Officer and enter comments on the same sheet. Any Negative comments provided by Execution Officer will make the score ZERO .",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Non core officer to enter suggested remarks against each article and maintain the file for audit verification. Recommended remarks are : a) Already on display; b) Not in display but found & displayed now; c) Article in PMD; d) Article Damaged and moved to 0003 location for Write Off; e) Articles Already on display but non moving  & f) Not Found. Duty Manager to check & sign the report confirming action taken and correct remarks are entered by Non Core Officer.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "section": "NON CORE",
+    "title": "HYGIENE ON FLOOR",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Non Core Officers to maintain Hygiene on floor on daily basis. All racks & articles should be clean & dust free. All articles should be properly arranged size wise/price wise, etc as per 4RQC. For eg: In Garment section: Articles must be properly folded on the racks: MIxed artcles should not found in Bins.: In Footwear section: All articles should be arranged size wise in racks.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) List of Damage articles identified during floor walk must be entered manually in 0003 Register & handed over to Grn. Such damaged articles to be moved regularly in system by Grn on the same day. This activity should be done for atleast 24 days in a month. No damaged/defective articles should be found lying on floor.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) All Barcodes received from Grn to be affixed on articles immediately. No Loose barcodes must be found lying on floor or in person.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Right price boards for all articles should  be displayed on floor. There should not be any spelling mistakes on any communication boards. (Exception for Ticket Boards). No Rate Difference complaints must  be received at Customer Care due to wrong communication board in category. If wrong boards result in rate difference settlements in srt, score will be ZERO.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "section": "NON CORE",
+    "title": "TOP TOP & GODOWN MAINTENANCE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Not more than 3 cartons to be kept on Top Top and height should not be more than 30 inches as per safety guidelines. No loose articles to be kept on Top Top. Improper stacking of cartons on top top, which can cause customer issues, accidents, incidents etc must be avoided. Godown stacking should not exceed the Red marking. Non Core Officer to maintain safety guidelines as per SOP.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "section": "NON CORE",
+    "title": "EXECUTION BOOK",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Reports provided by Execution officer to be maintained in serial order & should be available for verification during Process Audit. Any negative comments observed by Execution Officer during their Store Visits must be entered in the report and this will be checked by Process Audit Team and the negative comment will be considered as non compliant",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "section": "NON CORE",
+    "title": "GM 160 & MONTHLY FOCUS PACKS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) GM 160 articles & Monthly Focus packs checklist to be checked and updated on wooqer app  on daily basis as per the suggested guidelines and  format. Floor Officer to update specific remarks in the relevant columns & sign after completing the task.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the checklist and update the task on a wooqer app confirming completion of task by Floor officer.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "section": "NON CORE",
+    "title": "MB51",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Non Core Officers should check the MB51 report daily for new articles received . For all new articles identified in MB51 report should be displayed on the same day with Correct price boards.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "section": "HR",
+    "title": "ATTENDANCE REGISTER FOR 3P & D MART STAFF",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All 3P Staff & D Mart Employees Attendance should  be updated in Ramco by HR Officer on daily basis (Use Biometric attendance/ machine attendance with Store H.R.Assistance). Names of all 3P Staff to be entered in the Attendance Register by HR Officer in the beginning of the month and for new joinees as & when they join. HR Officers must update summary & sign in all attendance registers by 10 am next day. In absence of HR Officers, Duty Manager must enter summary details in the register.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Duty Manager to check & sign the attendance reports immediately after this summary is made by HR Officer. Duty Manager to check the calculations in the register.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "section": "HR",
+    "title": "ATTENDANCE DESCIPLINE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) CHRM to send Attendance Modification Report & Shift deviation details. Scoring parameters : Variance between 0 to 2% = 0.10; Variance between 2 to 5% = 0.05; Variance >5% = ZERO. CHRM report should provide % calculations as per suggested format.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "section": "HR",
+    "title": "PROMOTERS ATTENDANCE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1)HR team to check the Data mapping in LAMS for data hygiene along with the HR officer & the purchase officer & APM- vendor mapping to be done at regional level. Vendor Code & Vendor name update / mapping to be done  ( data to be taken from the Regions)",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2)  All new joinees names must be updated in LAMS by HR Officer. For new joinees details received from Central HR @ HO will be used for scoring. Scoring parameters will be : 100% new joinees registered in LAMS & Attendance Punching Recorded in System = 0.10; 90%+ to 99.99% new joinees registered in LAMS & Attendance Punching Recorded in System = 0.05; and < 90% new joinees registered in LAMS & Attendance Punching Recorded in System = ZERO.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Last working date for all inactive promoters must be updated immediately in LAMS by HR Officers to deactivate from system.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "section": "HR",
+    "title": "ATTENDANCE CORRECTION",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Attendance Correction : Corrections for all 3P staff attendance must be updated in RAMCO within 2 working days. Score Card received from Central HR Team @ HO will be used to verify details. Scoring parameters : 85%+ to 100% Correction done on next day (On time correction) = 0.20; 70%+ to 85% Correction done in 2 days (Delayed correction Yellow) = 0.10; < 70%  Corrections done after 2 days (Delayed correction Red) = ZERO",
+        "score": 0.2
+      },
+      {
+        "sub": 2,
+        "criteria": "2)  Adherence of SOP on\"Attendance recording management\" dated 28.1.2022. Entries must be made by Staff (3P & D Mart) in presence of Facility Staff on duty. HR Officer to use the data to enter in RAMCO and sign. Duty Manager must check and sign for all entries. Update Mis Punch Register regularly. Details entered in the Mis Punch register will be checked with Attendance Modification Report received from CHRM (Total No of Corrections for Single Punch; Double Punch must match with this data) Scoring Parameters : 100%=0.20, 80 to 99%=0.15, 60-79%=0.10, < 60%=0.",
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "section": "HR",
+    "title": "TIMELY 3P HIRING",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) On Time Hiring : For All new hiring in Ramco and AMS registration has to be completed within 2 days from Date of Joining. Details in the score card provided by Central HR Team @ HO will be used for scoring . Scoring parameters will be: 100% updation done within two working days in Ramco in AMS (on time hiring) = 0.20;  80%+ to  99.99% done within 3rd & 4th day in Ramco in AMS (Delayed hiring Yellow) = 0.10; < 80% updation in Ramco in AMS : any delays from 5th day onwards (Delayed hiring Red) = ZERO",
+        "score": 0.2
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "section": "HR",
+    "title": "DATA HYGIENE IN RAMCO, MAPPING & DOCUMENT UPLOAD IN RAMCO",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Proper mapping of job : (a) EDB Report: This will be checked with EDB report generated by HR officer  at the time of Audit by filtering on Designation of Employees. All employees must be correctly mapped in Ramco based on their designations. (b) ERT Role Mapping :  All 3P employees who are nominated for ERT responsibilities must be updated in Ramco.Transfers, promotions, resignations etc to be immediately updated in Ramco. ERT Shortfall summary received from HO will be used for scoring.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Medical Certificate (Core, GRN, Godown, Cashier, Packer & Promoters) must be updated in EDB section of RAMCO when 3P staff & Promoters join. All medical certificates must be valid and  renewed on due dates as per notifications received in Ramco system. Note : Validity of Medical Certificate is ONE YEAR from Date of Issue. Promoters medical certificate hard copies must be maintained at HR Officer desk.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) First Appointment/Posting order Letter issued by vendors & duly signed by 3P Staff should be uploaded in RAMCO within 7 working days. Appointment extention letter has to be issued before 'expiry date' as mentioned in last appointment / extention letter. No staff should be working without a valid appointment  letter. All Staff Promotions must be done as approved by Area Manager. Mail approvals from Area Manager will be maintained by HR Officer in a separate file.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "section": "HR",
+    "title": "EDB REPORT IN RAMCO",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All emergency contact nos, Active Mobile Nos, Nomination Names, share, relationship, dependant and all other fields must be updated in Ramco for all active 3P employees.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) ESIC nos to be updated in RAMCO in maximum of 5 days from DOJ. Scoring parameters will be : ESIC nos updated in 5 days from DOJ = 0.10;  ESIC nos updated after 5 days from DOJ =  ZERO",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) UAN Nos to be updated by 15th of every month post employees first payroll. All 3P staff to be informed by HR Officer to update active Mobile Nos  in RAMCO & Adhaar  to avoid authentification failure.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Bank Accounts to be updated before 30th of the joining month.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "section": "HR",
+    "title": "CH APPROVED MANPOWER BUDGET IN RAMCO",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Process auditor will compare Approved strength for Current & previous month as per Ramco. For any variance proper mail approval from CH should be available with HR/AHR/CHRM/SM.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "section": "HR",
+    "title": "HR : MANDAYS DATA FROM RAMCO",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Cashier :  Full Time : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Cashier :  Part Time (T1) : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Facility :  Full Time : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Facility Supervisor :  < 50% = 0; 50%+ to 75% = 0.05; 75%+ to 100% = 0.10; > 100% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 5,
+        "criteria": "5) Godown Assistant : < 50% = 0; 50%+ to 75% = 0.05; 75%+ to 100% = 0.10; > 100% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 6,
+        "criteria": "6) GRN Assistant : < 50% = 0; 50%+ to 75% = 0.05; 75%+ to 100% = 0.10; > 100% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 7,
+        "criteria": "7) House Keeping :  Full Time : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 8,
+        "criteria": "8) Packer :  Full Time : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 9,
+        "criteria": "9) Packer :  Part Time (T1) : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 10,
+        "criteria": "10) SA :  Full Time : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 11,
+        "criteria": "11) SA :  Part Time (T1) : < 80% = 0; 80%+ to 95% = 0.05; 95%+ to105% = 0.10; > 105% = 0",
+        "score": 0.1
+      },
+      {
+        "sub": 12,
+        "criteria": "12) Purchase Assistant : < 50% = 0; 50%+ to 75% = 0.05; 75%+ to 100% = 0.10; > 100% = 0",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "section": "HR",
+    "title": "MONTHLY PAYROLL PROCESSING & AUTHORISATON",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Attendance Consolidation shall be done on 26th of every month",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Payroll processing must be done on or before 27th of every month",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Payroll Authorisation must be done on or before last day of the month (30th or 31st of the month)",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "section": "HR",
+    "title": "HR : SEPERATION & ABSCONDING PROCESS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Planned resignation - HR Officer should enter DOL in system on the next working day from DOL with exact reason for leaving. DOL entered in system must be as per the date defined in absconding / termination letter.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Absconding - HR officer has to intimate names of absconding staff to SM after 7 days of absence and the proposed absconding action through respective vendor.  On the same day HR Officer to inform vendor by mail to start the absconding process.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) HR Officer must maintain absconding  / termination letter with RPAD or POD for all absconding cases. And initate seperation in the system on 21st day from first absconding mail to vendor.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "section": "HR",
+    "title": "F & F TRACKER AND SETTLEMENT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) F & F activity must be initiated by HR immediately after the payroll cycle. List of F & F cases to be maintained in XL format as per SOP circulated by Central HO Team.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Both UTR nos & Dates (1) for payment to vendor and (2) payment of final settlement to the employee, must be updated in the tracker sheet. Final settlement must be completed by 15th of every month for all cases initiated after payroll of previous month.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "section": "HR",
+    "title": "ASKED TO GO CASES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Blacklisting process to be completed without any delay after obtaining proper approval in RAMCO. Documentation for Cases identified under this category must be uploaded in RAMCO. All details will be verified  with SM. Details will be verified with data received from central HO team.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "section": "HR",
+    "title": "3P STAFF ROSTERS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) 3P staff rosters must mention names of all active staff including Part Timers,  in CORE: FMCG & Grocery; Non Core : Garments & GM; Cashiers; Packers; GRN, Godown, House Keeping and Facility.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) 3P staff shifts assigned once in RAMCO should not be changed. This data will be compared with Shift Deviation remarks in Attendance Modification Report.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) 3P Rosters must be made for 1st to 15th and 16th to 30th or 31st of the month. 3P rosters to be displayed in Staff Entry; Lunch Area; HR Cubicle or Manager cabin.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "section": "HR",
+    "title": "OFFICER MANAGER ROSTERS",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Officers / Managers rosters to be made on monthly basis. Names of all Officers & Managers must be displayed on roster. Rosters to be displayed at HR Cubicle & Manager Cabin.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "section": "HR",
+    "title": "GROOMING GUIDELINES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Dress Code  :  Managers and HR Officer  to check during briefing and take corrective action\nAppearance : DO's for Men : Neat & Clean Uniform, clean & polished Black Shoes / Sports Shoes; black belts; Nails clean & cut short, Hair to be short & combed, clean-shaven. Don'ts for Men: No Long Hair, No beards,No Ear rings & bracelets; No stains on Apron, No broken buttons, No loose threads on the uniform, No sandals & slippers. DO's for Women - Hair Should be tied with Net, Only very light make-up to be applied, Normal bangles.  Don'ts for Women:  No Flowers, No dangling ear rings. Grooming standards is also applicable to Back Office Staff/ Officers/ Managers and visitors from HO / RO.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "section": "HR",
+    "title": "ID CARDS & NAME BADGES",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All 3P staff, Promoters shall wear valid  ID card and name badges at all times while on duty. All Dmart employees shall display the valid ID Card on their person at all times while on duty.  All visiting employees from RO/HO must wear ID cards and produce the same at staff entry while entering the store.  All vendors visiting store for PO and category meeting must wear Visitor's ID Cards till they are in D Mart premises. Women employees can wear \"STAFF\" name badges as an option.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "section": "MANAGER",
+    "title": "NIGHT VISIT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Night Round to be done atleast once in 30 days from previous Night visit date by Area Managers/ Store Managers/ Asst Store Managers/ Department Managers. Night visits to be done between 02.30 am to 04.30 am by authorised personnel only as decided in the CH meet. This is also applicable in stores where night refilling & night receiving activities are undertaken. Facility Staff must carry ID Cards, Torch, Whistle, Wooden Stick, Landline phone with hot keys and a list of emergency numbers. Two security guards must be  from different agencies. Details to be entered in night visit register",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "section": "MANAGER",
+    "title": "PARTIAL MARKDOWN",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) After PM activity Execution Officer to handover any leftover barcodes  to Duty Manager & same to be handedover to GRN immediately, Such barcodes will be entered in the return barcode register by GRN & will be destroyed by Duty Managers immediately after this activity. Execution officer must record no. of barcodes handedover to Duty Manager in their reports.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Manager to ensure No of Barcodes returned by Execution Officer and no of barcodes entered in return barcodes register by GRN & no of barcodes destroyed must be the same. Duty manager to check & sign confirming action taken.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "section": "MANAGER",
+    "title": "COMPLAINT REGISTER",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) All Complaints Recorded in Complaint Register must be closed in 24hrs  in system & INC no. to be entered in the register immediately. All closures must also record date in the register.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All Quality complaints (including Online complaints received from HO) settled through SRT must also be recorded in the register.  All details like product description,Immediate action taken, follow up action taken, etc needs to be written clearly and verified by Managers.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Store Manager or Sr Manager in the store to counter sign complaints resolved & closed in their absence by Jr Managers.",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "section": "MANAGER",
+    "title": "GHEE & DRYFRUIT RECEIVING",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Managers to ensure quantities of all Ghee & Dryfruits are received in the store by Godown Officers without any mistakes. Entries for all such receivings in the Inward register will be made by Godown officers. Duty Managers must countersign the register immediately after verifying the Inward entry.",
+        "score": 0.25
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "section": "MANAGER",
+    "title": "ASSET MANAGEMENT",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Trolleys/Baskets/Bag in Bags/Customer Wheel Chair & Crates maintained in Clean Usable Condition.",
+        "score": 0.15
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Customer trolleys & Godown loader Trolleys to be rid of threads both at customer entry & warehouse. Avoid overloading of trolleys beyond recommended capacities.",
+        "score": 0.15
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Customer trolleys should not be used by vendors while receiving stocks.  Stocks in trolleys should not be left on floor unattended. SA's & Promoters to use only one trolley at a time to bring stocks from godown. Food and Non food articles should not  be loaded in the same trolley.",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Manager to ensure Assets count tallies with the Assets Audit report available with SM.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "section": "MANAGER",
+    "title": "FORMAT FOR REGISTERS/ROSTER APPROVAL/COMPLIANCE/STATUTORY",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Managers to ensure all registers used in various departments are as per the PDF format provided by NSO Team. If Old registers are available, Column should be maintained as per recommended formats. For any additional requirement SM should generate PO as per rate contract & order to be placed with the approved vendor.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) All duty rosters must be approved by Manager before HR Officer updates in RAMCO. Rosters dispalyed at staff entry, lunch area, Manager cabin & HR cubicle to be signed by Manager.",
+        "score": 0.1
+      },
+      {
+        "sub": 3,
+        "criteria": "3) Shift deviations from RAMCO roster schedule should not be more than 10%. Shift Deviation will be picked up from ATTENDANCE MODIFICATION REPORT provided by CHRM on 28th of every month.  Scoring parameters : Variance between 0 to 10% = 0.10; Variance  >10% = ZERO",
+        "score": 0.1
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Abstracts of Gratuity Act 1972; Child Labour Act 1946; Payment of Wages Act 1936; Shops & Establishment Act 1948; Minimum Wages Act 1948; List of Holidays etc as mandated must be prominently displayed in Manager/HR Cabin.",
+        "score": 0.15
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "section": "MANAGER",
+    "title": "SERVER ROOM",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Server room should be always locked and key should be easily accessible to cash officers and Managers. Server room Hygiene must be maintained without any leakages. Camera should be in working condition always.",
+        "score": 0.1
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Server room In/out register should be maintained properly.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) \"Do not switch off \"board should be present on critical IT peripherals & power supply socket in server room.",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) Server room Both the AC ( Day & night) should be working properly as per schedule & cooling to be mainatined as per SOP.",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "section": "MANAGER",
+    "title": "CASH COUNTER & BACK OFFICE",
+    "subpoints": [
+      {
+        "sub": 1,
+        "criteria": "1) Cash Counters area should be neat & clean & cables must be properly  tagged. Network I/O box connection should not be loose or damaged. All CPU should be covered.",
+        "score": 0.05
+      },
+      {
+        "sub": 2,
+        "criteria": "2) Plutus/Innoviti DGPRS should be working properly. Plutus & Innoviti Terminals should be available in alternate POS Counters.",
+        "score": 0.05
+      },
+      {
+        "sub": 3,
+        "criteria": "3) IT Asset equipment numbers to be  properly tagged (CPU, Printer, Scanner, Servers, Network switch, Cash Drawer). 2 Spare Thermal Printer should be available in working condition. System shutdown stickers should be available on the monitor. Disposal of IT asset Scrap to be monitored  on a regular basis as per SOP",
+        "score": 0.05
+      },
+      {
+        "sub": 4,
+        "criteria": "4) All Cash Counters should be switched on a daily basis. All Weighing scales should be on network during store operation timings.",
+        "score": 0.05
+      },
+      {
+        "sub": 5,
+        "criteria": "5) ASL & AFPPL day end should be done on a regular basis.",
+        "score": 0.05
+      }
+    ]
+  }
+]
