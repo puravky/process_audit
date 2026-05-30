@@ -1,5 +1,6 @@
 import streamlit as st
 from google import genai
+from google.genai import types
 import json
 import os
 import pandas as pd
@@ -15,10 +16,6 @@ st.set_page_config(
 
 st.title("Hi Manoj! 👋")
 st.markdown("Your AI-powered auditing assistant.")
-
-client = genai.Client(
-    api_key=st.secrets["GEMINI_API_KEY"]
-)
 
 @st.cache_data
 def load_checkpoints():
@@ -79,16 +76,35 @@ FULL AUDIT CHECKLIST:
 """
 
 @st.cache_resource
-def get_model():
-    return genai.GenerativeModel("gemini-2.5-flash-lite", system_instruction=SYSTEM_PROMPT)
+def get_client():
+    return genai.Client(
+        api_key=st.secrets["GEMINI_API_KEY"]
+    )
 
-model = get_model()
+client = get_client()
 
 def ask_gemini(messages):
-    chat = model.start_chat(history=messages[:-1])
-    response = chat.send_message(messages[-1]["parts"])
-    raw = response.text.strip().strip("```json").strip("```").strip()
-    return raw
+    conversation = []
+
+    for msg in messages:
+        role = "user" if msg["role"] == "user" else "model"
+        conversation.append(
+            types.Content(
+                role=role,
+                parts=[types.Part(text=msg["parts"])]
+            )
+        )
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash-lite",
+        contents=conversation,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT,
+            temperature=0.1
+        )
+    )
+
+    return response.text.strip()
 
 def init_state():
     defaults = {
