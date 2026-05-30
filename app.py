@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 st.title("Hi Manoj! 👋")
-st.markdown("Your AI-powered auditing assistant.")
+st.subheader("I'm CheckMate🕵🏻‍♂️, your DMart audit assistant.")
 
 @st.cache_data
 def load_checkpoints():
@@ -151,7 +151,7 @@ st.markdown("""
         border-radius: 18px 18px 18px 4px;
     }
     .score-pill {
-        display: inline-block;
+        display: inline-block; white-space: nowrap;
         background: #fff3e0; border: 1.5px solid #ff6b35;
         padding: 4px 14px; border-radius: 20px;
         font-size: 14px; font-weight: 600; color: #e64a19;
@@ -174,7 +174,6 @@ st.markdown("""
 # ── Header ────────────────────────────────────────────────────────────────────
 hc1, hc2 = st.columns([4, 1])
 with hc1:
-    st.markdown("## ✅ CheckMate")
     st.caption("Describe what you see — I'll find the audit checkpoint.")
 with hc2:
     st.markdown("<br>", unsafe_allow_html=True)
@@ -242,7 +241,7 @@ if st.session_state.pending_match:
             )
             st.session_state.messages.append({
                 "role": "bot",
-                "text": f"✔ Logged — **{deduct_val} pts** deducted from Point {m['point_id']}.{m['sub']}",
+                "text": f"✔ Logged — {deduct_val} pts deducted from Point {m['point_id']}.{m['sub']}",
                 "type": "match"
             })
             st.session_state.pending_match = None
@@ -288,11 +287,11 @@ if send and observation.strip():
             if result["status"] == "match":
                 st.session_state.pending_match = result
                 text = (
-                    f"📍 **Point {result['point_id']}.{result['sub']} — {result['title']}** "
+                    f"📍 Point {result['point_id']}.{result['sub']} — {result['title']} "
                     f"[{result['section']}]\n\n"
                     f"{result['criteria'][:250]}\n\n"
                     f"_{result['explanation']}_\n\n"
-                    f"Max deductible: **{result['max_score']} pts**"
+                    f"Deductible: {result['max_score']} pts"
                 )
                 st.session_state.messages.append({"role": "bot", "text": text, "type": "match"})
 
