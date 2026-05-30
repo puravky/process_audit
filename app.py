@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+from google import genai
 import json
 import os
 import pandas as pd
@@ -13,7 +13,12 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+st.title("Hi Manoj! 👋")
+st.markdown("Your AI-powered auditing assistant.")
+
+client = genai.Client(
+    api_key=st.secrets["GEMINI_API_KEY"]
+)
 
 @st.cache_data
 def load_checkpoints():
@@ -75,7 +80,7 @@ FULL AUDIT CHECKLIST:
 
 @st.cache_resource
 def get_model():
-    return genai.GenerativeModel("gemini-2.0-flash", system_instruction=SYSTEM_PROMPT)
+    return genai.GenerativeModel("gemini-2.5-flash-lite", system_instruction=SYSTEM_PROMPT)
 
 model = get_model()
 
