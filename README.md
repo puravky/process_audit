@@ -1,4 +1,4 @@
-# DMart Process Audit Assistant
+# Process Audit Assistant
 
 NLP-powered audit tool — describe what you observe, AI maps it to the exact checkpoint.
 
